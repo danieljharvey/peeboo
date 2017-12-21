@@ -1,0 +1,25 @@
+{
+  "intents": [
+    {
+      "intent": "Hello"
+    },
+    {
+      "intent": "LitterTrayPoos"
+    },
+    {
+      "intent": "KitchenPoos"
+    },
+    {
+      "intent": "HowManyPoos"
+    },
+    {
+      "slots": [
+        {
+          "name": "PooDate",
+          "type": "AMAZON.DATE"
+        }
+      ],
+      "intent": "HowManyPoosSince"
+    }
+  ]
+}

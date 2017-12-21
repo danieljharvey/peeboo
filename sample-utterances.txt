@@ -1,0 +1,27 @@
+Hello hello
+Hello hi
+Hello What's up
+Hello how is it going
+LitterTrayPoos have you pooed in the litter tray
+LitterTrayPoos if she's used her litter tray today
+LitterTrayPoos if her litter needs changing
+LitterTrayPoos if she's learned to use the toilet properly yet
+KitchenPoos have you pooed in the kitchen
+KitchenPoos is there a stink on the tiles
+KitchenPoos if there's a mess in the kitchen
+KitchenPoos if i'm going to need to clean up after her bum
+KitchenPoos if there's a stinker on the tiles
+KitchenPoos if she's shit on the floor
+KitchenPoos if she's pooed on the floor
+HowManyPoos how many poos have you done
+HowManyPoos have you done many poos
+HowManyPoos did you poo today
+HowManyPoos how many poos have you done
+HowManyPoos if she's done many poos today
+HowManyPoos if she's left any sloppers on the kitchen floor'
+HowManyPoos how many poos have you done
+HowManyPoos how many turds
+HowManyPoos how many shits
+HowManyPoosSince how many poos have you done since {PooDate}
+HowManyPoosSince whats the total of poos since {PooDate}
+HowManyPoosSince how many poos have you done since {PooDate}
